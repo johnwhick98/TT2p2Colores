@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">T2p2Colores</string>
+    <string name="agrega">Agregar colores</string>
+    <string name="mostrar">Mostrar colores</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="mostrar2">MOSTRAR</string>
+    <string name="mostrar3">MOSTRAR</string>
+    <string name="regresar">REGRESAR</string>
+    <string name="regre">REGRESAR</string>
+    <string name="op">Operaciones con Rad</string>
+    <string name="col">Colores</string>
+    <string name="escrip" />
+</resources>
